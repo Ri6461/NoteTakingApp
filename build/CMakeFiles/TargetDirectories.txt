@@ -1,0 +1,3 @@
+/home/rabin/Desktop/Project_urja/NoteTakingApp/build/CMakeFiles/NoteTakingApp.dir
+/home/rabin/Desktop/Project_urja/NoteTakingApp/build/CMakeFiles/edit_cache.dir
+/home/rabin/Desktop/Project_urja/NoteTakingApp/build/CMakeFiles/rebuild_cache.dir
